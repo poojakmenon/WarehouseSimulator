@@ -11,6 +11,10 @@ Developed a program in Java to simulate a warehouse of products with functions s
 - <b>algorithms (ex: swim/sink in heap)</b>
 - <b>Object Oriented Programming</b>
 - <b>Optimization (ie. maintaining O(logn) runtime) </b>
+- <b>Priority Queues </b>
+- <b>Hash Table like stucture</b>
+- <b>Helper & Tester methods</b>
+
 
 
 <h2>Environments Used </h2>
