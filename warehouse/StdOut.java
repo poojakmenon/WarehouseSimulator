@@ -1,6 +1,6 @@
 package warehouse;
 /******************************************************************************
-
+ *  PROVIDED FILE
  *  Compilation:  javac StdOut.java
  *  Execution:    java StdOut
  *  Dependencies: none
